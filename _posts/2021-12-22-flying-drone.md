@@ -7,16 +7,16 @@ classes: wide
 header:
   teaser: /assets/images/flying-drone/drone.png
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: /assets/images/university_of_edinburgh.jpg
 categories:
-  - hackthebox
-  - infosec
+  - Simulation
+  - Travel Salesman Problem
 tags:
-  - linux
-  - gitlab
-  - cve
-  - docker
-  - privileged container
+  - Java
+  - Simulation
+  - Travel Salesman Problem
+  - GeoJSON
+  - University of Edinburgh
 ---
 
 ![](/assets/images/flying-drone/drone.png)
