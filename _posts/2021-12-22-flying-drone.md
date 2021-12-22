@@ -1,4 +1,4 @@
---
+---
 layout: single
 title: Drone flightpath simulation
 excerpt:"This project emulates a food delivery service at the Edinburgh University Campus. It addresses the Travel Salesman Problem as the drone used to make the deliveries have a limited battery and the system must optimise the orders to achieve the highest value delivered. Adding on, to add difficulty to the project, there are no-fly zones delimeted in the campus through which the drone must not fly. In this way the drone must also improvise flightpaths when requiried."
@@ -9,14 +9,13 @@ header:
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
-  - hackthebox
-  - infosec
+  - Algorithms
+  - Simulation
 tags:
-  - linux
-  - gitlab
-  - cve
-  - docker
-  - privileged container
+  - Java
+  - Simulation
+  - Travel Salesman Problem
+  - GeoJSON
 ---
 
 ![](/assets/images/flying-drone/drone.png)
