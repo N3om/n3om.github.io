@@ -46,4 +46,4 @@ The following document include the completer description of the Project:
       Results and Statistics
   References
 
-[PDF DOCUMENT HERE]([https://github.com/N3om/guides-and-articles/blob/main/Flying-Drone-Report/Flying_Drone_Report.pdf)
+  * [PDF DOCUMENT HERE](https://github.com/N3om/guides-and-articles/blob/main/Flying-Drone-Report/Flying_Drone_Report.pdf)
