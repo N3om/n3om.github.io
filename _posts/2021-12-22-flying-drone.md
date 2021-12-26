@@ -47,3 +47,17 @@ The following document includes the complete description of the project:
   References
 
   * [PDF DOCUMENT HERE](https://github.com/N3om/guides-and-articles/blob/main/Flying-Drone-Report/Flying_Drone_Report.pdf)
+
+## Software Architecture Description
+
+The application is formed by 11 classes which are basic to perform the operations of this project. These are App, Basic Utils,
+Database Handler, Drone, GeoJSON Handler, HTTP Client, Line_, LongLat, Menus, Restaurants and Words Handler. Adding on,
+an interface, Request Utils has also been used.
+The user must input the following values to initialise the program correctly:
+  - date of the year 2022 or 2023 (the deliveries simulation will run for this specific date).
+  - a port number to a web server (which will contain the information of no-fly zones, landmarks, the menus of all the
+    restaurants, and What3Words details to get coordinates).
+  - a port to a database (which contains a list of orders, their details, and where the flight path information and completed
+    deliveries must be written).
+
+
