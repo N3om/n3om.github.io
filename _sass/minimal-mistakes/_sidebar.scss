@@ -173,10 +173,24 @@
 
 .author__bio {
   margin: 0;
+  @include breakpoint($large) {
+    //margin-top: 10px;
+    //margin-bottom: 20px;
+  }
+}
+
+.bio_last {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-bottom: 20px;
+  }
+}
+.bio_first{
+  margin: 0;
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
   }
 }
 

@@ -33,8 +33,23 @@
       <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
     {% endif %}
     {% if author.bio %}
-      <p class="author__bio" itemprop="description">
+      <p class="author__bio bio_first" itemprop="description">
         {{ author.bio }}
+      </p>
+    {% endif %}
+    {% if author.bio1 %}
+      <p class="author__bio" itemprop="description">
+        {{ author.bio1 }}
+      </p>
+    {% endif %}
+    {% if author.bio2 %}
+      <p class="author__bio" itemprop="description" style="text-decoration-color: red;">
+        {{ author.bio2 }}
+      </p>
+    {% endif %}
+    {% if author.bio3 %}
+      <p class="author__bio bio_last" itemprop="description">
+        <span class="sub_tab"></span> {{ author.bio3 }}
       </p>
     {% endif %}
   </div>

@@ -20,7 +20,7 @@ tags:
 
 This project emulates a food delivery service at the Edinburgh University Campus. It addresses the Travel Salesman Problem. The drone used to make the deliveries have a limited battery, and the system must optimise the orders to achieve the highest value delivered. Where are no-fly zone areas to increase the difficulty. They are spaces around the campus through which the drone must not fly. In this way, the drone must also improvise flight paths when required.
 
-![](/assets/images/flying-drone/drone.png){: class="drone_image"}
+![](/assets/images/flying-drone/drone.png){: class="init_image"}
 
 ## Report PDF ##
 The following document includes the complete description of the project:

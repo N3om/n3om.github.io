@@ -17,5 +17,5 @@ tags:
   - VMware
 ---
 
-![](/guides-and-articles/VMs/Images/Virtual-Machines.png){: class="drone_image"}
+![](/guides-and-articles/VMs/Images/Virtual-Machines.png){: class="init_image"}
 
