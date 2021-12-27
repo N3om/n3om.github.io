@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "_N3om.io"
+title                    : "Sergio Miguez"
 title_separator          : "-"
-name                     : "_N3om"
+name                     : "Sergio Miguez"
 description              : "MEng Electronics & Computer Science"
-url                      : "https://n3om.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sergiomiguez.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "n3om/n3om.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "SergioMiguez/sergiomiguez.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -101,8 +101,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "_N3om"
-  avatar           : "/assets/images/avatar_.jpg"
+  name             : "Sergio Miguez"
+  avatar           : "/assets/images/SMA.jpg"
   bio              : "MEng Electronics & Computer Science"
   location         : "UK (Edinburgh) - Spain (Madrid)"
   email            : "n3om.mail@gmail.com"
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "N3om"
+  github           : "SergioMiguez"
   gitlab           :
   google_plus      :
   keybase          : #
