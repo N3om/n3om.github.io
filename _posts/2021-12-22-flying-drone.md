@@ -41,7 +41,7 @@ The following document includes the complete description of the project:
       Results and Statistics
   References
 
-# :point_right: [**VIEW PDF DOCUMENT**](/guides-and-articles/Flying-Drone-Report/Flying_Drone_Report.pdf)     :page_facing_up:
+# :point_right: [**VIEW PDF DOCUMENT**](/guides-and-articles/Flying-Drone-Report/Flying_Drone_Report.pdf):page_facing_up::exclamation:
 
 ## Software Architecture Description
 
