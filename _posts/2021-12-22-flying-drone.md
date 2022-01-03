@@ -5,8 +5,9 @@ excerpt: "This project emulates a food delivery service at the Edinburgh Univers
 date: 2021-12-22
 classes: wide
 header:
-  teaser: /assets/images/flying-drone/university_of_edinburgh.png
+  teaser: /assets/images/flying-drone/drone.png
   teaser_home_page: true
+  icon: /assets/images/flying-drone/university_of_edinburgh.png
 categories:
   - Simulation
   - Travel Salesman Problem
