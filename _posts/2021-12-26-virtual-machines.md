@@ -43,4 +43,9 @@ A Virtual Machine (VM) is a computer that runs over software instead of physical
 
 A Virtual Machine will run an OS, which could be of any type and version. Some examples would be Windows 10/11/7/XP, a Linux distribution (Arch, Ubuntu, Parrot OS, Linux Mint, etc).
 
+## References ##
+
+* VMware - [online] Available at: [https://www.vmware.com/topics/glossary/content/virtual-machine.html](https://www.vmware.com/topics/glossary/content/virtual-machine.html) - [Accessed 26 Dec. 2021]
+* Oracle VirtualBox - [online] Available at: [https://www.virtualbox.org/manual/ch01.html](https://www.virtualbox.org/manual/ch01.html) - [Accessed 26 Dec. 2021]
+* Parrot OS - [online] Available at: [https://www.parrotsec.org/download/](https://www.parrotsec.org/download/) - [Accessed 26 Dec. 2021]
 
