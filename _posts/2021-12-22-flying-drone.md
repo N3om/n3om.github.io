@@ -5,9 +5,9 @@ excerpt: "This project emulates a food delivery service at the Edinburgh Univers
 date: 2021-12-22
 classes: wide
 header:
-  teaser: /assets/images/flying-drone/drone.png
+  teaser: /assets/images/flying-drone/drone_flight.png
   teaser_home_page: true
-  icon: /assets/images/flying-drone/university_of_edinburgh.png
+  icon: /assets/images/flying-drone/drone.png
 categories:
   - Simulation
   - Travel Salesman Problem
@@ -21,7 +21,7 @@ tags:
 
 This project emulates a food delivery service at the Edinburgh University Campus. It addresses the Travel Salesman Problem. The drone used to make the deliveries have a limited battery, and the system must optimise the orders to achieve the highest value delivered. Where are no-fly zone areas to increase the difficulty. They are spaces around the campus through which the drone must not fly. In this way, the drone must also improvise flight paths when required.
 
-![](/assets/images/flying-drone/drone.png){: class="init_image"}
+![Simulation of deliveries completed on 11/06/2022](/assets/images/flying-drone/drone_flight.png "Simulation of deliveries completed on 11/06/2022"){: class="drone_image"}
 
 ## Report PDF ##
 The following document includes the complete description of the project:
