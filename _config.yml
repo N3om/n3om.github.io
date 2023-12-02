@@ -103,10 +103,10 @@ analytics:
 author:
   name             : "Sergio Miguez"
   avatar           : "/assets/images/SMA.jpg"
-  bio              : "MSc Computing (Security & Reliability)  "
+  bio              : "MSc Computing (Security & Reliability)"
   bio1             : "@ Imperial College London"
-  bio2             : "BEng (Hons) Electronics and Computer Science"
-  bio3             : "@  University of Edinburgh"
+  bio2             : "BEng Electronics and Computer Science"
+  bio3             : "@ University of Edinburgh"
   location         : "UK (London) - Spain (Madrid)"
   email            : "s.miguez.aparicio@gmail.com"
   uri              :
